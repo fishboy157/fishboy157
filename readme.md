@@ -16,7 +16,7 @@ você é maravilhoso
             src="https://custom-icon-badges.demolab.com/badge/São Paulo-BR-purple?style=for-the-badge&logo=location&logoColor=white"
         />
     </a> 
-    <a href="https://github.com/raulportolopes?tab=repositories&sort=stargazers">
+    <a href="https://github.com/fishboy157?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
