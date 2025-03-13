@@ -32,6 +32,14 @@
             src="https://custom-icon-badges.demolab.com/github/followers/fishboy157?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    </a>
+    <a href="https://www.instagram.com/nick.sants18/">
+        <img 
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            src="https://i.imgur.com/NT17Dki.png" width="28px"
+        />
+    </a>
 </p>
 
 
