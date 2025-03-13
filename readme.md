@@ -1,5 +1,5 @@
 ##
-follow in instagram "[nick.sants18]"
+follow in instagram "[@nick.sants18]"
 <p align="left">
     <a href="https://www.linkedin.com/in/nicolas-fernandes-34241b2ba/">
         <img 
