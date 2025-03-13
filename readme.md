@@ -17,13 +17,6 @@
             title="Localização" 
             src="https://custom-icon-badges.demolab.com/badge/São Paulo-BR-purple?style=for-the-badge&logo=location&logoColor=white"
         />
-    </a> 
-    <a href="https://github.com/fishboy157?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/fishboy157?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
     </a>
     <a href="https://github.com/fishboy157?tab=followers">
         <img 
