@@ -1,4 +1,7 @@
-##
+# **Nicks.Sants♣️**
+### Jovem cursando o Ensino Médio
+### Curso de excel basico 
+### Experiencia em estagio
 follow in instagram "[@nick.sants18]"
 <p align="left">
     <a href="https://www.linkedin.com/in/nicolas-fernandes-34241b2ba/">
