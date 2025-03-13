@@ -2,7 +2,7 @@
 ### Jovem cursando o Ensino Médio
 ### Excel basico, certificado SENAI
 ### Experiencia em estagio
-follow in instagram "[@nick.sants18]"
+follow in instagram [@nick.sants18](https://www.instagram.com/nick.sants18/)
 <p align="left">
     <a href="https://www.linkedin.com/in/nicolas-fernandes-34241b2ba/">
         <img 
