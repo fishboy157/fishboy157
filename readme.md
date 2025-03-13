@@ -1,6 +1,6 @@
 # **Nicks.Sants♣️**
 ### Jovem cursando o Ensino Médio
-### Curso de excel basico 
+### Excel basico, certificado SENAI
 ### Experiencia em estagio
 follow in instagram "[@nick.sants18]"
 <p align="left">
