@@ -2,7 +2,7 @@
 você é maravilhoso
 
 <p align="left">
-    <a href="https://https://www.linkedin.com/in/nicolas-fernandes-34241b2ba/">
+    <a href="https://www.linkedin.com/in/nicolas-fernandes-34241b2ba/">
         <img 
             alt="Linkedins" 
             title="Meu Linkedin" 
